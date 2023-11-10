@@ -1,0 +1,8 @@
+.activities-scroll-box::-webkit-scrollbar{
+    display: none;
+}
+
+.activities-scroll-box {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}

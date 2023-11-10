@@ -1,0 +1,47 @@
+/*
+.button {
+	margin: 10px 20px;
+	border-radius:28px;
+    background-color:#579aff;
+	display:inline-block;
+    border:none;
+	cursor:pointer;
+	color:#ffffff;
+	padding:16px 31px;
+    width: 250px;
+}
+.button:hover {
+	background-color:#2664ff;
+}
+
+.button-small {
+	margin: 30px 50px;
+	border-radius:28px;
+    background-color:#579aff;
+	display:inline-block;
+    border:none;
+	cursor:pointer;
+	color:#ffffff;
+	padding: 10px 15px;
+    width: 100px;
+}
+.button-small:hover {
+	background-color:#2664ff;
+}
+*/
+/*
+.btn-warning, .btn-warning:hover, .btn-warning:active, .btn-warning:visited {
+    background-color: #24343C !important;
+}
+*/
+/*
+$chosencolour:#24343C;
+
+.btn-warning {
+    @include button-variant($chosencolour, darken($chosencolour, 7.5%), darken($chosencolour, 10%), lighten($chosencolour,5%), lighten($chosencolour, 10%), darken($chosencolour,30%));
+}
+
+.btn-outline-primary {
+    @include button-outline-variant($chosencolour, #222222, lighten($chosencolour,5%), $chosencolour);
+}
+*/
